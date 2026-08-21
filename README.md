@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="porsche-911-turbo-s-black-background-amoled-pitch-black-3840x2880-7730.jpg" alt="Banner" width="100%" />
+
 
 # Hey, I'm Varun 👋
 
