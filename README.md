@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner](porsche-911-turbo-s-black-background-amoled-pitch-black-3840x2880-7730.jpg)
+
 # Hey, I'm Varun 👋
 
 ### Data Science Student • Backend Developer • AI Agents
