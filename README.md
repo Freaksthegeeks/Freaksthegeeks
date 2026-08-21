@@ -35,7 +35,7 @@
 
 ---
 
-# Tech Stack:
+# Tech Stack
 
 <div align="center">
 
@@ -144,7 +144,7 @@
 
 ---
 
-#  Areas I'm Exploring
+#  Interested Areas
 
 <p align="center">
 
@@ -154,7 +154,6 @@
 
 <img src="https://img.shields.io/badge/Small%20Language%20Models-000000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Backend%20Engineering-009688?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge"/>
 
@@ -240,7 +239,7 @@
 
 ### ⚡ Build. Break. Learn. Repeat.
 
-*Still learning. Still building. Still debugging.*
+>*Still learning. Still building.*
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=freaksthegeeks&label=Profile%20Views&color=2E9FF7&style=for-the-badge" alt="Profile Views" />
