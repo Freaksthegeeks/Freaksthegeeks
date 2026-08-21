@@ -18,12 +18,24 @@
 
 ## 🧠 A Little About Me
 
-I'm a **Data Science student and technology enthusiast** who enjoys going beyond notebooks and turning ideas into complete working systems.
-
-* 🎓 Data Science student @ **Coimbatore Institute of Technology**
-* 🗺️ Exploring **Generative AI, LLM applications & AI Agents, Geospatial Information Systems & Spatial Data, workflow automation and AI-powered pipelines, MQTT, IoT & real-time systems**
-
-* 🧠 Interested in **Small Language Models (SLMs), AI Agents & Networking**
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <br>
+      <p>I'm a <b>Data Science student and technology enthusiast</b> who enjoys going beyond notebooks and turning ideas into complete working systems.</p>
+      <ul>
+        <li>🎓 Data Science student @ <b>Coimbatore Institute of Technology</b></li>
+        <li>🗺️ Exploring <b>Generative AI, LLM applications & AI Agents, Geospatial Information Systems & Spatial Data, workflow automation and AI-powered pipelines, MQTT, IoT & real-time systems</b></li>
+        <li>🧠 Interested in <b>Small Language Models (SLMs), AI Agents & Networking</b></li>
+      </ul>
+      <br>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- REPLACE YOUR_GIF_URL_HERE WITH YOUR ACTUAL GIF URL -->
+      <img src="YOUR_GIF_URL_HERE" alt="GIF Placeholder" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -117,81 +129,6 @@ I'm a **Data Science student and technology enthusiast** who enjoys going beyond
 
 ---
 
-# 🚀 Things I've Built
-
-I enjoy building projects where different technologies have to work together to solve a real problem.
-
-### ⚡ Smart Transformer Health Management System
-
-An IoT-based industrial monitoring system designed to collect transformer parameters and make the data useful for monitoring and analysis.
-
-**Built with:**
-
-`ESP32` `MQTT` `Node-RED` `OPC UA` `Docker` `Sensors` `Firebase`
-
-Working with parameters such as:
-
-* 🌡️ Temperature
-* ⚡ Voltage
-* 🔌 Current
-* 📡 Real-time sensor communication
-
----
-
-### 📰 AI-Powered Workforce Intelligence & News Automation
-
-An automation pipeline that collects relevant workforce and industry news, processes it through AI workflows and stores structured information for downstream analysis.
-
-**Built with:**
-
-`n8n` `RSS` `PostgreSQL` `LLMs` `Groq` `Langfuse` `Docker` `APIs`
-
-**Pipeline:**
-
-**RSS Feeds → Automation → AI Processing → Verification → Database → Application**
-
----
-
-### 🏋️ Gym Register Book
-
-A backend-focused gym management application designed for Gym owners to log their operations.
-
-**Built with:**
-
-`FastAPI` `PostgreSQL` `Psycopg2` `REST API`
-
-Designed to manage:
-
-* 👤 Members
-* 📋 Membership plans
-* 👨‍💼 Staff
-* ⏳ Expiring memberships
-* ❌ Expired memberships
-* 📊 Active member tracking
-
----
-
-### 🗺️ Built-up Changes 
-
-Exploring geospatial workflows using satellite imagery and GIS tools.
-
-**Technologies:**
-
-`QGIS` `Leafmap` `Geemap` `Spatial Data` `Python`
-
-Currently exploring how spatial data and satellite imagery can be transformed into useful real-world information.
-
----
-
-### 🔍 [More on GitHub](https://github.com/freaksthegeeks?tab=repositories)
-
-I keep experimenting with different ideas across **AI, Data Science, Backend Development, IoT and Automation**.
-
-Check out my [repositories](https://github.com/freaksthegeeks?tab=repositories) to explore the projects, experiments, and things I'm currently building.
-
-
----
-
 # 🏆 Highlights & Achievements
 
 * 🏆 **ColigoAI Hackathon — Second Runner-up**, Coimbatore Institute of Technology
@@ -199,22 +136,6 @@ Check out my [repositories](https://github.com/freaksthegeeks?tab=repositories) 
 * 🥇 **THINKLYTICS — Winner**, LOGIN 2025, PSG College of Technology; led a team of 2 in a data analysis competition
 * 🥉 **DATA CRAFT — Second Runner-up**, MELINIA 2024, Coimbatore Institute of Technology; led a team of 3 in a data analysis competition
 
----
-
-# 👥 Roles & Responsibilities
-
-### Event Management Team — Datalytics Club
-
-**Coimbatore Institute of Technology | 2024 – 2025**
-
-* Managed event logistics and coordination for **10+ club workshops**
-* Hosted and served as **Master of Ceremonies (MC)** for a club event
-
-### Office Bearer — Datalytics Club
-
-**Coimbatore Institute of Technology | 2025 – 2026**
-
-* Organized **8+ club events** and technical activities and an intra-college **Data Science Hackathon with 20 teams**
 ---
 
 # 🎯 Areas I'm Exploring
