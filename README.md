@@ -333,9 +333,9 @@ Check out my [repositories](https://github.com/freaksthegeeks?tab=repositories) 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=freaksthegeeks&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=freaksthegeeks&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freaksthegeeks&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=freaksthegeeks&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -343,7 +343,7 @@ Check out my [repositories](https://github.com/freaksthegeeks?tab=repositories) 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=freaksthegeeks&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=freaksthegeeks&theme=tokyonight&hide_border=true" />
 
 </div>
 
