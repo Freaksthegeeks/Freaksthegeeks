@@ -27,181 +27,93 @@ I'm a **Data Science student and technology enthusiast** who enjoys going beyond
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack:
 
-### 💻 Languages
+<div align="center">
 
-<p align="center">
+### Languages
+<img src="https://skillicons.dev/icons?i=py,postgres,html,css&theme=dark" alt="Languages" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
----
-
-### 🧰 Tools & Platforms
+### Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=cloudflare,aws,gcp,docker&theme=dark" alt="Cloud & Servers" />
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face%20Hub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge"/>
-
-</p>
-
----
-
-### ⚙️ Frameworks & Libraries
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🗄️ Databases Management Systems
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-</p>
-
----
-
-### 📊 Data Analytics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</p>
-
----
-
-### 📡 Protocols & Networking
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/OPC%20UA-005B96?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
-
-</p>
-
----
-
-### 🤖 Machine Learning & Deep Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-</p>
-
----
-
-### 🎙️ Audio & Speech
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-
-</p>
-
----
-
-### 🐳 Deployment & Infrastructure
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Coolify-6E56CF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
 </p>
 
----
+<br>
 
-### 🗺️ Geospatial Information System
+### Database
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase&theme=dark" alt="Databases" />
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GeoMap-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Leafmap-2E7D32?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+<br>
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=fastapi,flask,opencv,tensorflow,sklearn&theme=dark" alt="Frameworks & Libraries" />
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+<br>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" alt="Tools & Platforms" />
+
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face%20Hub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge"/>
+</p>
+
+<br>
+
+### Data Analytics
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data Analytics" />
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<br>
+
+### Protocols & Networking
+<p align="center">
+<img src="https://img.shields.io/badge/OPC%20UA-005B96?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+</p>
+
+<br>
+
+###  Geospatial Information System
+<p align="center">
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeMap-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Leafmap-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge"/>
+</p>
+
+</div>
 
 ---
 
@@ -333,7 +245,11 @@ Check out my [repositories](https://github.com/freaksthegeeks?tab=repositories) 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=freaksthegeeks&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github.com/freaksthegeeks.png" width="130" height="130" style="border-radius: 50%;" alt="Varun S Profile Picture" />
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=freaksthegeeks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=freaksthegeeks&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
@@ -343,7 +259,15 @@ Check out my [repositories](https://github.com/freaksthegeeks?tab=repositories) 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=freaksthegeeks&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.vercel.app/?user=freaksthegeeks&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=freaksthegeeks&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9FF7&line=2E9FF7&point=FFFFFF" />
 
 </div>
 
@@ -373,22 +297,14 @@ Check out my [repositories](https://github.com/freaksthegeeks?tab=repositories) 
 
 <div align="center">
 
-<a href="https://github.com/Freaksthegeeks">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<a href="https://github.com/Freaksthegeeks" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
-
-<a href="https://www.linkedin.com/in/varun-s-29b813271/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<a href="https://www.linkedin.com/in/varun-s-29b813271/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
 <a href="mailto:skvarun05@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 
 </div>
