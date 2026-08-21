@@ -6,17 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9FF7&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;Data+%7C+Backend+%7C+AI+%7C+IoT;Turning+ideas+into+working+systems." alt="Typing SVG" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=freaksthegeeks&label=Profile%20Views&color=2E9FF7&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/followers/freaksthegeeks?style=for-the-badge&color=2E9FF7&logo=github" alt="GitHub Followers" />
-
 </div>
 
 ---
 
-## 🧠 A Little About Me
+## A Little About Me
 
 <table>
   <tr>
@@ -24,9 +18,9 @@
       <br>
       <p>I'm a <b>Data Science student and technology enthusiast</b> who enjoys going beyond notebooks and turning ideas into complete working systems.</p>
       <ul>
-        <li>🎓 Data Science student @ <b>Coimbatore Institute of Technology</b></li>
-        <li>🗺️ Exploring <b>Generative AI, LLM applications & AI Agents, Geospatial Information Systems & Spatial Data, workflow automation and AI-powered pipelines, MQTT, IoT & real-time systems</b></li>
-        <li>🧠 Interested in <b>Small Language Models (SLMs), AI Agents & Networking</b></li>
+        <li> Data Science student @ <b>Coimbatore Institute of Technology</b></li>
+        <li> Exploring <b>Generative AI, LLM applications & AI Agents, Geospatial Information Systems & Spatial Data, workflow automation and AI-powered pipelines, MQTT, IoT & real-time systems</b></li>
+        <li> Interested in <b>Small Language Models (SLMs), AI Agents & Networking</b></li>
       </ul>
       <br>
     </td>
@@ -129,16 +123,26 @@
 
 ---
 
-# 🏆 Highlights & Achievements
+#  Highlights & Achievements
 
-* 🏆 **ColigoAI Hackathon — Second Runner-up**, Coimbatore Institute of Technology
-* 🏆 **SMART INDIA HACKATHON 2025 — Internal Hackathon Winner**, Coimbatore Institute of Technology; recognized among the **Top 50 teams**
-* 🥇 **THINKLYTICS — Winner**, LOGIN 2025, PSG College of Technology; led a team of 2 in a data analysis competition
-* 🥉 **DATA CRAFT — Second Runner-up**, MELINIA 2024, Coimbatore Institute of Technology; led a team of 3 in a data analysis competition
+<table>
+  <tr>
+    <td>
+      <br>
+      <ul>
+        <li>🏆 <b>ColigoAI Hackathon — Second Runner-up</b>, Coimbatore Institute of Technology</li>
+        <li>🏆 <b>SMART INDIA HACKATHON 2025 — Internal Hackathon Winner</b>, Coimbatore Institute of Technology; recognized among the <b>Top 50 teams</b></li>
+        <li>🥇 <b>THINKLYTICS — Winner</b>, LOGIN 2025, PSG College of Technology; led a team of 2 in a data analysis competition</li>
+        <li>🥉 <b>DATA CRAFT — Second Runner-up</b>, MELINIA 2024, Coimbatore Institute of Technology; led a team of 3 in a data analysis competition</li>
+      </ul>
+      <br>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🎯 Areas I'm Exploring
+#  Areas I'm Exploring
 
 <p align="center">
 
@@ -162,7 +166,7 @@
 
 ---
 
-# 📊 GitHub Activity
+#  GitHub Activity
 
 <div align="center">
 
@@ -194,7 +198,7 @@
 
 ---
 
-# 📈 Coding Profiles
+#  Coding Profiles
 
 <div align="center">
 
@@ -214,7 +218,7 @@
 
 ---
 
-# 🔗 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
@@ -237,6 +241,11 @@
 ### ⚡ Build. Break. Learn. Repeat.
 
 *Still learning. Still building. Still debugging.*
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=freaksthegeeks&label=Profile%20Views&color=2E9FF7&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/followers/freaksthegeeks?style=for-the-badge&color=2E9FF7&logo=github" alt="GitHub Followers" />
 
 <br>
 
