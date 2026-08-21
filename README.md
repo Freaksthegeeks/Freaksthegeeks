@@ -26,7 +26,7 @@
     </td>
     <td width="35%" align="center" valign="middle">
       <!-- REPLACE YOUR_GIF_URL_HERE WITH YOUR ACTUAL GIF URL -->
-      <img src="YOUR_GIF_URL_HERE" alt="GIF Placeholder" width="100%" />
+      <img src="https://media1.tenor.com/m/wUdaAg8Kms4AAAAd/sweaty-sweat.gif" alt="GIF Placeholder" width="100%" />
     </td>
   </tr>
 </table>
@@ -174,8 +174,6 @@
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=freaksthegeeks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=freaksthegeeks&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
@@ -184,7 +182,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.vercel.app/?user=freaksthegeeks&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.vercel.app?user=Freaksthegeeks&theme=Javascript)](https://git.io/streak-stats)
 
 </div>
 
